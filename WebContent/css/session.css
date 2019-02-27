@@ -1,0 +1,56 @@
+@charset "UTF-8";
+
+
+#session
+{
+	box-sizing : border-box;
+	border : 1em silver ridge;
+	margin : auto;
+	text-align : right;
+	background-image : linear-gradient(to right,black,white,black);
+	margin-bottom : 10px;
+}
+
+#session-hello
+{
+	color : white;
+}
+
+#list-todo
+{
+	box-sizing : border-box;
+	border : 1em silver ridge;
+	background-image : linear-gradient(to right,grey,white,grey);
+	text-align : center;
+	width : 100%;
+	margin : auto;
+}
+
+table
+{
+	border-collapse : collapse;
+	border-bottom : 1px solid gray;
+	width : 95%;
+}
+
+tr
+{
+	text-align : center;
+}
+
+#add-button
+{
+	padding : 10px 39%;
+	width : 100%;
+	text-align : center;
+}
+
+#title
+{
+	box-sizing : border-box;
+	border : 1em silver ridge;
+	background-image : linear-gradient(to right,orange,white,orange);
+	text-align : center;
+	margin-bottom : 20px;
+	font-size : 40px;
+}

@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+body
+{
+	background-image : linear-gradient(to right,#5500ff,white,#5500ff);
+}
+
+#add-form
+{
+	box-sizing : border-box;
+	border : 1em silver ridge;
+	background-image : linear-gradient(to right,grey,black,grey);
+	color : white;
+}
+
+#add-input-description
+{
+	width : 88%;
+}

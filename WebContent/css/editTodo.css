@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+#edit-label
+{
+	box-sizing : border-box;
+	border : 1em silver ridge;
+	margin : auto;
+	text-align : left;
+	color : white;
+	background-image : linear-gradient(to right,grey,black,grey);
+	margin-bottom : 10px;
+}
+
+body
+{
+	background-image : linear-gradient(to right,#5500ff,white,#5500ff);
+}
+
+#edit-box-description
+{
+	box-sizing : border-box;
+	border : 1em silver ridge;
+	margin : auto;
+	text-align : left;
+	color : white;
+	background-image : linear-gradient(to right,blue,white,blue);
+}
+
+#edit-input-description
+{
+	width : 85%;
+}

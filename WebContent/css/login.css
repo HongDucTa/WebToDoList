@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+body
+{
+	/*background-image : linear-gradient(to right,#5500ff,grey,orange);*/
+	background-image : linear-gradient(to right,#5500ff,white,#5500ff);
+}
+
+#login-title
+{
+	box-sizing : border-box;
+	border : 1em silver ridge;
+	background-image : radial-gradient(white,grey);
+	margin : auto;
+	width : 50%;
+	text-align : center;
+	margin-bottom : 20px;
+	margin-top : 10%;
+}
+
+#login-form
+{
+	box-sizing : border-box;
+	border : 1em silver ridge;
+	margin : auto;
+	vertical-align : middle;
+	width : 50%;
+	background-image : linear-gradient(grey,white);
+	text-align : center;
+}
+
+#login-button
+{
+	margin-top : 10px;
+	margin-bottom : 10px;
+}
